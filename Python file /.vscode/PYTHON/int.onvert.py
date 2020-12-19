@@ -1,0 +1,6 @@
+string_a=input("insert:")
+int_a=int(string_a)
+string_b=input("insert:")
+int_b=int(string_b)
+print("string data:",string_a+string_b)
+print("number data:",int_a+int_b)

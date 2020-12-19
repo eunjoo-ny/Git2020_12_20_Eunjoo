@@ -1,0 +1,10 @@
+A="{}$".format(6000)
+B="I study hard python so that I can make my first-pay {}$".format(6000)
+C="{} {} {}".format(3000,4000,5000)
+D="{} {} {}".format(1,"word", True)
+
+print()
+print(A)
+print(B)
+print(C)
+print(D)

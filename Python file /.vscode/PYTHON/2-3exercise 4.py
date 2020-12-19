@@ -1,0 +1,5 @@
+A=input("insert your favorite number:")
+B=float(A)
+print()
+print(B,"inch")
+print((B*2.54),"cm")

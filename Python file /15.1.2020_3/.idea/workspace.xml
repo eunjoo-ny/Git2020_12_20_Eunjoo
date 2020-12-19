@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3a42ae96-eb4b-4af2-a4c8-a183d52decc7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WQsAQdoZdC6pU52O1anu0wrzkx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="15.1.2020_3_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="15.1.2020_3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/15.1.2020_3_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.15.1.2020_3_1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a42ae96-eb4b-4af2-a4c8-a183d52decc7" name="Default Changelist" comment="" />
+      <created>1579093008265</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579093008265</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="764" height="207" key="GridCell.Tab.0.bottom" timestamp="1579165868323">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="764" height="207" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1579165868323" />
+    <state width="764" height="207" key="GridCell.Tab.0.center" timestamp="1579165868322">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="764" height="207" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1579165868322" />
+    <state width="764" height="207" key="GridCell.Tab.0.left" timestamp="1579165868321">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="764" height="207" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1579165868321" />
+    <state width="764" height="207" key="GridCell.Tab.0.right" timestamp="1579165868322">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="764" height="207" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1579165868322" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/15.1.2020_3_1.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

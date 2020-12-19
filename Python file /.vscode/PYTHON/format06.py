@@ -1,0 +1,6 @@
+A="{:+15.3f}".format(52.273)
+B="{:=+15.2f}".format(-52.273)
+C="{:+15.1f}".format(+52.273)
+print(A)
+print(B)
+print(C)
